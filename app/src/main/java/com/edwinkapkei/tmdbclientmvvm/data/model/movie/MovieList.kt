@@ -1,4 +1,4 @@
-package com.edwinkapkei.tmdbclientmvvm.data
+package com.edwinkapkei.tmdbclientmvvm.data.model.movie
 
 
 import com.google.gson.annotations.SerializedName

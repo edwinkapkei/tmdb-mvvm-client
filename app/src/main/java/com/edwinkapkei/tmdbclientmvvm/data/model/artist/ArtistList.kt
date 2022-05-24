@@ -1,4 +1,4 @@
-package com.edwinkapkei.tmdbclientmvvm.data
+package com.edwinkapkei.tmdbclientmvvm.data.model.artist
 
 
 import com.google.gson.annotations.SerializedName
